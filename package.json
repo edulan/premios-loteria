@@ -1,5 +1,9 @@
 {
   "name": "premios_loteria",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/edulan/premios-loteria.git"
+  },
   "dependencies": {
     "express": "4.10.6",
     "request": "2.51.0"
